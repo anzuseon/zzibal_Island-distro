@@ -12,7 +12,7 @@
       "name": "발찌 놀이터",
       "description": "zzibal_Island Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": null,
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "zzibalworld.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -473,16 +473,6 @@
           }
         },
         {
-          "id": "generated.library:OptiFine_1.20.1_HD_U_I6:0.0.0@jar",
-          "name": "OptiFine_1.20.1_HD_U_I6",
-          "type": "Library",
-          "artifact": {
-            "size": 7145205,
-            "url": "https://raw.githubusercontent.com/anzuseon/zzibal_Island-distro/main/servers/zzibal_Island-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6.jar",
-            "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
-          }
-        },
-        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -490,6 +480,26 @@
             "size": 4903,
             "url": "https://raw.githubusercontent.com/anzuseon/zzibal_Island-distro/main/servers/zzibal_Island-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2831148,
+            "url": "https://raw.githubusercontent.com/anzuseon/zzibal_Island-distro/main/servers/zzibal_Island-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
+            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.19+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1280293,
+            "url": "https://raw.githubusercontent.com/anzuseon/zzibal_Island-distro/main/servers/zzibal_Island-1.20.1/forgemods/required/embeddium-0.3.19+mc1.20.1-all.jar",
+            "MD5": "1b272575bea5f1e7c61a4d189b712343"
           }
         },
         {
