@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/helios/zzibal_Island/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "발찌 놀이터",
+    "description": "zzibal_Island Running Minecraft 1.20.1 (Forge v47.3.0)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "zzibalworld.kro.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.3.0"
+  },
+  "untrackedFiles": []
+}
