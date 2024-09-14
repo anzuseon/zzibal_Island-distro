@@ -12,7 +12,7 @@
       "name": "발찌 놀이터",
       "description": "zzibal_Island Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": null,
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "zzibalworld.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -477,7 +477,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4903,
+            "size": 5052,
             "url": "https://raw.githubusercontent.com/anzuseon/zzibal_Island-distro/main/servers/zzibal_Island-1.20.1/files/options.txt",
             "path": "options.txt"
           }
