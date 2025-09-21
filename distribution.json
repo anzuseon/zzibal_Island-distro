@@ -473,6 +473,26 @@
           }
         },
         {
+          "id": "emotecraft:emotecraft:1.20.1-2.2.7@jar",
+          "name": "Emotecraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5447680,
+            "url": "https://raw.githubusercontent.com/anzuseon/zzibal_Island-distro/main/servers/zzibal_Island-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+            "MD5": "636c62379cd7c5201a70fd457808e331"
+          }
+        },
+        {
+          "id": "playeranimation:playeranimation:1.20.1-1.0.2@jar",
+          "name": "playeranimation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1458176,
+            "url": "https://raw.githubusercontent.com/anzuseon/zzibal_Island-distro/main/servers/zzibal_Island-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "MD5": "46f8554181d4d240075ea4919d01fd01"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
