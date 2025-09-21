@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.2",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -8,11 +8,11 @@
   },
   "servers": [
     {
-      "id": "zzibal_Island-1.20.1",
-      "name": "발찌 놀이터",
-      "description": "zzibal_Island Running Minecraft 1.20.1 (Forge v47.3.0)",
+      "id": "Cute_Island-1.20.1",
+      "name": "기요미 놀이터",
+      "description": "Cute_Island Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": null,
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "zzibalworld.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
