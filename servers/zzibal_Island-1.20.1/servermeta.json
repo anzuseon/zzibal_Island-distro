@@ -1,9 +1,9 @@
 {
   "$schema": "file:///C:/helios/zzibal_Island/distro/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
-    "name": "발찌 놀이터",
-    "description": "zzibal_Island Running Minecraft 1.20.1 (Forge v47.3.0)",
+    "version": "1.0.1",
+    "name": "기요미 놀이터",
+    "description": "Cute_Island Running Minecraft 1.20.1 (Forge v47.3.0)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "zzibalworld.kro.kr",
     "discord": {
